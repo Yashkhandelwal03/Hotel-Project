@@ -38,7 +38,13 @@ ody{
     margin-left:15px ;
 }
 #button{
-    margin-left: 115px;
+    margin-left: 152px;
+}
+#button-1{
+    margin-left: 10px;
+}
+#smoking{
+    margin-left: 15px;
 }
 .navbar-dark {
      background-color: #512DA8;
@@ -55,6 +61,12 @@ ody{
 
 .carousel-item {
   height: 300px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
 }
 
 .carousel-item img {
